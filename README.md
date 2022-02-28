@@ -89,6 +89,8 @@ paper: https://arxiv.org/pdf/1611.01484.pdf
 - VGGFace2: https://github.com/ox-vgg/vgg\_face2 <br/>
 paper: https://ieeexplore.ieee.org/abstract/document/8373813
 
+![alt text](/img/datasets_table.jpg)
+
 For more details about each dataset, or acquisition methods refer to TODO.
 In this paper you can also find details on methods for head pose estimation, evaluation metrics, evaluation pipeline and results obtained on commonly used datasets.
 
