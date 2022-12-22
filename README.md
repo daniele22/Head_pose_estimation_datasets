@@ -92,7 +92,7 @@ paper: https://ieeexplore.ieee.org/abstract/document/8373813
 ![alt text](/img/datasets_table.jpg)
 
 For more details about each dataset, or acquisition methods refer to https://amslaurea.unibo.it/25279/.
-In this thesis you can also find details on methods for head pose estimation, evaluation metrics, evaluation pipeline and results obtained on commonly used datasets.
+In this thesis you can also find details on methods for head pose estimation, evaluation metrics, evaluation pipelines and results obtained on commonly used datasets.
 
 
 # ✍️ Author   
