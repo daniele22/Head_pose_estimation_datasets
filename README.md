@@ -94,6 +94,8 @@ paper: https://ieeexplore.ieee.org/abstract/document/8373813
 For more details about each dataset, or acquisition methods refer to https://amslaurea.unibo.it/25279/.
 In this thesis you can also find details on methods for head pose estimation, evaluation metrics, evaluation pipelines and results obtained on commonly used datasets.
 
+**Article** 📑
+Asperti, A., Filippini, D. Deep Learning for Head Pose Estimation: A Survey. SN COMPUT. SCI. 4, 349 (2023). https://doi.org/10.1007/s42979-023-01796-z
 
 # ✍️ Author   
 **[Daniele Filippini]**
