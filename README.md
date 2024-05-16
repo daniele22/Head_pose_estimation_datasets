@@ -97,5 +97,11 @@ In this thesis you can also find details on methods for head pose estimation, ev
 **Article** 📑
 Asperti, A., Filippini, D. Deep Learning for Head Pose Estimation: A Survey. SN COMPUT. SCI. 4, 349 (2023). https://doi.org/10.1007/s42979-023-01796-z
 
+**UPDATES**
+New Datasets
+- 2DHeadPose: https://github.com/youngnuaa/2DHeadPose
+paper: https://doi.org/10.1016/j.neunet.2022.12.021
+- AGORA-HPE: https://github.com/hnuzhy/DirectMHP?tab=readme-ov-file#agora-hpe-dataset
+
 # ✍️ Author   
 **[Daniele Filippini]**
